@@ -1,0 +1,4 @@
+name: OpenAIHook
+version: '${project.version}'
+main: openaihook.openaihook.OpenAIHook
+api-version: 1.19

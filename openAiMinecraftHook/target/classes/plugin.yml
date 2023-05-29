@@ -1,0 +1,4 @@
+name: OpenAIHook
+version: '1.0-SNAPSHOT'
+main: openaihook.openaihook.OpenAIHook
+api-version: 1.19
