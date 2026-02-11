@@ -16,18 +16,18 @@ Players can talk to ChatGPT directly from the Minecraft chat.
 **Usage:**
 `AI - <your prompt here>`
 
-#### Example
-```AI - explain redstone like I’m new```\
-Will give the output the same as if you asked ChatGPT directly.
+> **Example:**
+> ```AI - explain redstone like I’m new```\
+> Will give the output the same as if you asked ChatGPT directly.
 
 ---
 
 ### AI-Driven Command Execution
 ChatGPT can interpret certain prompts and execute in-game commands on the player’s behalf.
 
-#### Example
-```AI - take me home```\
-Will execute the `/home` command enabling in-game commands via an AI prompt.
+> **Example:**
+> ```AI - take me home```\
+> Will execute the `/home` command enabling in-game commands via an AI prompt.
 
 
 The plugin handles the request and delivers the generated content back into the game environment.
