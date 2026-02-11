@@ -1,4 +1,4 @@
-# OpenAI Minecraft Plugin
+# MineGPT - Integrating OpenAI's Chat GPT into the Minecraft text chat.
 
 ## Overview
 **OpenAI Minecraft** is a proof-of-concept plugin that connects **OpenAI’s ChatGPT** directly into Minecraft using simple HTTP requests.  
