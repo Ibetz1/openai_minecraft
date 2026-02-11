@@ -1,5 +1,7 @@
-# openai_minecraft
-hooks openAIs chat gpt into minecraft
+# Openai Minecraft
+hooks openAI' Chat GPT into minecraft
 
-# purpose
-an example to showe how using HTTP requests, anything can be put into minecraft
+# Purpose
+an example to show how using HTTP requests, anything can be put into minecraft.
+
+# In-game commands
